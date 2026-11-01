@@ -1,0 +1,5 @@
+gradio>=4.44,<6
+streamlit>=1.50
+supabase>=2.7,<3
+python-dotenv>=1.0,<2
+pandas>=2.0
